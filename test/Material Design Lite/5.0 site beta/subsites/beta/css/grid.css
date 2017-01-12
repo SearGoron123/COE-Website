@@ -1,0 +1,39 @@
+body {
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+iframe {
+	height: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: scroll;
+}
+.device-size {
+	padding: 15px;
+	margin-bottom: 10px;
+	width: 100%;
+}
+.device-size a {
+	text-decoration: none;
+	margin-right: 6px;
+	margin-left: 6px;
+	opacity: 0.5;
+}
+.device-size a:hover,
+.device-size .switch-active {
+	opacity: 1;
+}
+#desktop-size {
+	width: 960px;
+}
+#tablet-size {
+	width: 600px;
+}
+#mobile-size {
+	width: 400px;
+}
+
+.mdl-cell {
+	padding: 20px;
+	background-color: #f3f3f3;
+}
