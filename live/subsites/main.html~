@@ -20,6 +20,9 @@
 
 			<!--Custom CSS-->
 			<link rel="stylesheet" href="../css/customstyle.css">
+			
+			<!--Social CSS-->
+			<link rel="stylesheet" href="../css/socialbuttons.css">
 
 	</head>
 
@@ -66,39 +69,6 @@
 		</section>
 		
 <!====================[Content]====================>
-
-		
-		
-		
-		
-		
-<!====================[Test_Area]====================>		
-			<!-- Google+ -->
-			<a href="https://plus.google.com/share?url=" title="Share on Google+" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--googleplus">
-				<i class="fa fa-google-plus fa-fw"></i>
-				Google+
-			</a>
-			
-			<div class="mdl-grid">
-				<div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">6 (8 tablet)</div>
-				<div class="mdl-cell mdl-cell--4-col mdl-cell--6-col-tablet">4 (6 tablet)</div>
-				<div class="mdl-cell mdl-cell--2-col mdl-cell--4-col-phone">2 (4 phone)</div>
-			</div>    
-			          
-		<!-- Colored FAB button -->
-		<button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
-			<i class="material-icons">add</i>
-		</button>
-
-		<marquee attribute_name="attribute_value"....more attributes>
-			I'm Rolling Text
-		</marquee>
-
-		<marquee width="25%">
-			1/4 Rolling Text
-		</marquee>
-
-<!--                <h1 class="center">A Heading</h1> -->
 
 <!====================[Scripts]====================>
 
