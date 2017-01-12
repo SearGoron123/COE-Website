@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--tags-->
+			
+		<!--MATERIAL LITE-->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+		<link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.green-purple.min.css">
+		<script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+		
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+		
+		<!--Typed css-->
+		<link rel="stylesheet" href="../css/typed.css" type="text/css">
+
+		<!--Custom CSS-->
+		<link rel="stylesheet" href="../css/customstyle.css">
+		<link rel="stylesheet" href="../css/contactus.css">
+			
+	</head>
+	
+	<body>
+		
+       <!====================[Contact Us]====================>
+       
+       	<section class="mdl-grid mdl-color--grey-100">
+				<div class="mdl-cell mdl-cell--12-col center-text">
+					<h2>Contact <a style="opacity: 0.87, color: #9C27B0">Us</a></h2>
+					<p>We have youtube, google plus, and facebook.<br> All are named clanofeoron</p>
+				</div>
+			</section>
+			
+	</body>
+	
+</html>

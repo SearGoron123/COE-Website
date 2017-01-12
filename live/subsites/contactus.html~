@@ -16,7 +16,10 @@
 			<!--Custom CSS-->
 			<link rel="stylesheet" href="../css/customstyle.css">
 			<link rel="stylesheet" href="../css/contactus.css">
-			
+		
+			<!-- [ library stuff (kinda stolen) ] 
+			=========================================================================================================================
+			<link rel="stylesheet" type="text/css" href="../library/othercss/style.css">-->
         </head>
         
         <body>

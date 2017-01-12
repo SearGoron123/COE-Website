@@ -16,11 +16,15 @@
 			<!--Custom CSS-->
 			<link rel="stylesheet" href="../css/customstyle.css">
 			<link rel="stylesheet" href="../css/about.css">
-			
+		
+			<!-- [ library stuff (kinda stolen) ] 
+			=========================================================================================================================
+			<link rel="stylesheet" type="text/css" href="../library/othercss/style.css">-->
         </head>
         
         <body>
-        
+            <section class="our-team white-background black" id="three">
+      <div class="container">
        <!====================[About Us]====================>
 		
 			<section class="mdl-grid mdl-color--grey-100">
@@ -69,6 +73,7 @@
 				</div>
 			
 			</section>
-			
+      </div>
+  </section>
         </body>
     </html>
