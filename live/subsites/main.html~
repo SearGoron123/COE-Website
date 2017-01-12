@@ -72,15 +72,12 @@
 		
 		
 		
-<!====================[Test_Area]====================>
-			
-			<div>		
-				<!-- Google+ -->
-				<a href="https://plus.google.com/share?url=" title="Share on Google+" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--googleplus">
-					<i class="fa fa-google-plus fa-fw"></i>
-					Google+
-				</a>
-			</div>			
+<!====================[Test_Area]====================>		
+			<!-- Google+ -->
+			<a href="https://plus.google.com/share?url=" title="Share on Google+" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--googleplus">
+				<i class="fa fa-google-plus fa-fw"></i>
+				Google+
+			</a>
 			
 			<div class="mdl-grid">
 				<div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">6 (8 tablet)</div>
