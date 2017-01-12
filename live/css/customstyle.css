@@ -55,7 +55,8 @@
 }
 
 .creative-card-desc.mdl-card {
-	width: 256px;
+	#width: 256px;
+	min-width: 512px;
 	height: 256px;
 
 }

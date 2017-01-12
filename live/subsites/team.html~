@@ -31,7 +31,7 @@
 		
 			<section class="mdl-grid mdl-color--grey-100">
 
-				<div class="creative-card-image-1 mdl-card mdl-cell mdl-cell--3-col center-text mdl-shadow--2dp">
+				<div class="creative-card-image-1 mdl-card mdl-cell mdl-cell--6-col center-text mdl-shadow--2dp">
 					<div class="mdl-card_title mdl-card--expand">			
 					</div>
 					<div class="mdl-card_actions">
@@ -39,7 +39,7 @@
 					</div>
 				</div>
 				
-				<div class="creative-card-desc mdl-card mdl-color--accent mdl-cell mdl-cell--3-col center-text mdl-shadow--2dp">
+				<div class="creative-card-desc mdl-card mdl-color--accent mdl-cell mdl-cell--6-col center-text mdl-shadow--2dp">
 					<div class="mdl-card_supporting-text">
 						<h5>Derek Helm</h5>
 						<h4>Co-Founder</h4>
@@ -47,7 +47,11 @@
 					</div>
 				</div>
 			
-				<div class="creative-card-image-2 mdl-card mdl-cell mdl-cell--3-col center-text mdl-shadow--2dp">
+			</section>
+			
+			<section class="mdl-grid mdl-color--grey-100 center-text">
+			
+				<div class="creative-card-image-2 mdl-card mdl-cell mdl-cell--6-col center-text mdl-shadow--2dp">
 					<div class="mdl-card_title mdl-card--expand">					
 					</div>
 					<div class="mdl-card_actions">
@@ -55,15 +59,17 @@
 					</div>
 				</div>
 				
-				<div class="creative-card-desc mdl-card mdl-color--primary mdl-cell mdl-cell--3-col center-text mdl-shadow--2dp">
+				<div class="creative-card-desc mdl-card mdl-color--primary mdl-cell mdl-cell--6-col center-text mdl-shadow--2dp">
 					<div class="mdl-card_supporting-text">
 					<h5>Richard Eckhardt</h5>
 					<h4>Co-Founder</h4>
 					Hey, I’m a beautiful person, the true brains behind the operation.					
 					</div>
 				</div>
-			
+				
 			</section>
+			
 		</section>
-        </body>
-    </html>
+	</body>
+
+</html>
