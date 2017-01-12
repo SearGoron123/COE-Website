@@ -20,6 +20,10 @@
     text-align: center;
 }
 
+.center-grid {
+	justify-content: center;
+}
+
 .intro-backdrop {
     background-color: #ffffff;
     background-image: url("media/intro_backdrop.jpg");

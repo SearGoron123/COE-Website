@@ -20,6 +20,10 @@
     text-align: center;
 }
 
+.center-grid {
+	jutify-content: center;
+}
+
 .intro-backdrop {
     background-color: #ffffff;
     background-image: url("media/intro_backdrop.jpg");
@@ -56,7 +60,7 @@
 
 .creative-card-desc.mdl-card {
 	#width: 256px;
-	min-width: 512px
+	min-width: 512px;
 	height: 256px;
 
 }
