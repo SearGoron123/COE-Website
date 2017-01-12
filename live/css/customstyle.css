@@ -87,14 +87,8 @@
 .about_us {
 	min-height: 225px;
 }
-
 a {
-	display: inline-block;
-	color: lightgrey;
-	background-color: rgba(0,0,0,0.50);
-	border-radius: 6px;
-	padding: 3px 6px 3px 6px;
-	text-decoration: none;
+	color: white;
 }
 
 /*	MAIN HEADING
