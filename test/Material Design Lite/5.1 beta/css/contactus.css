@@ -5,24 +5,3 @@ body{
 	margin: 0px;
 	background-color: #4CAF50;
 }
-#derek {
-	/*background-image: url("../media/contactus.jpg");*/
-    background: linear-gradient(#4CAF50, #e040fb);
-	color: rgb(66, 66, 66);
-	margin: 0px;
-	padding: 0px;
-}
-#richie {
-	/*background-image: url("../media/contactus.jpg");*/
-    background: linear-gradient(#e040fb, #4CAF50);
-	color: rgb(66, 66, 66);
-	margin: 0px;
-	padding: 0px;
-}
-
-#people {
-	background-color: transparent;
-}
-img {
-	border-radius: 5%;
-}
