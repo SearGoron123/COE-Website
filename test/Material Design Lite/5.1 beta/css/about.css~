@@ -1,7 +1,5 @@
 body {
 	text-align:center;
-	background-color: #F5F5F5
-
 }
 img {
 	border-radius: 5%;
