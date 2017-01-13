@@ -3,7 +3,7 @@
 
 <!====================[Links]====================>
 	<head>
-	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!--MATERIAL LITE ONLINE-->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 		<link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.green-purple.min.css">
@@ -26,21 +26,70 @@
 			<!--Social CSS-->
 			<link rel="stylesheet" href="../css/socialbuttons.css">
 
-	</head>
-
 	<meta charset="UTF-8">
 
 	<title>
 		Clan of Eoron main
 	</title>
+
+	</head>
 	
 <!====================[Test_Area]====================>
-			
-			<div>		
+			<!--    <!-- Uses a header that contracts as the page scrolls down. -->
+<!--    <style>
+<!--    .demo-layout-waterfall .mdl-layout__header-row .mdl-navigation__link:last-of-type  {
+<!--        padding-right: 0;
+<!--    }
+<!--    </style>
+<!--
+<!--    <div class="demo-layout-waterfall mdl-layout mdl-js-layout">
+<!--        <header class="mdl-layout__header mdl-layout__header--waterfall">
+<!--            <!-- Top row, always visible -->
+<!--            <div class="mdl-layout__header-row">
+<!--                <!-- Title -->
+<!--                <span class="mdl-layout-title">Title</span>
+<!--                <div class="mdl-layout-spacer"></div>
+<!--                <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
+<!--                            mdl-textfield--floating-label mdl-textfield--align-right">
+<!--                    <label class="mdl-button mdl-js-button mdl-button--icon"
+<!--                           for="waterfall-exp">
+<!--                        <i class="material-icons">search</i>
+<!--                    </label>
+<!--                    <div class="mdl-textfield__expandable-holder">
+<!--                        <input class="mdl-textfield__input" type="text" name="sample"
+<!--                               id="waterfall-exp">
+<!--                    </div>
+<!--                </div>
+<!--            </div>
+<!--            <!-- Bottom row, not visible on scroll -->
+<!--            <div class="mdl-layout__header-row">
+<!--                <div class="mdl-layout-spacer"></div>
+<!--                <!-- Navigation -->
+<!--                <nav class="mdl-navigation">
+<!--                    <a class="mdl-navigation__link" href="">Link</a>
+<!--                    <a class="mdl-navigation__link" href="">Link</a>
+<!--                    <a class="mdl-navigation__link" href="">Link</a>
+<!--                    <a class="mdl-navigation__link" href="">Link</a>
+<!--                </nav>
+<!--            </div>
+<!--        </header>
+<!--        <div class="mdl-layout__drawer">
+<!--            <span class="mdl-layout-title">Title</span>
+<!--            <nav class="mdl-navigation">
+<!--                <a class="mdl-navigation__link" href="">Link</a>
+<!--                <a class="mdl-navigation__link" href="">Link</a>
+<!--                <a class="mdl-navigation__link" href="">Link</a>
+<!--                <a class="mdl-navigation__link" href="">Link</a>
+<!--            </nav>
+<!--        </div>
+<!--        <main class="mdl-layout__content">
+<!--            <div class="page-content"><!-- Your content goes here -->   <!--   </div>
+<!--        </main>
+<!--    </div>
+			<div>		-->
 				<!-- Google+ -->
 				<a href="https://plus.google.com/share?url=" title="Share on Google+" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--googleplus">
 					<i class="fa fa-google-plus fa-fw"></i>
-					Google+
 					<i class="mdi mdi-facebook"></i>  <!-- bell -->
 				</a>
 				
@@ -49,7 +98,15 @@
 					<i class="fa fa-facebook fa-fw"></i>
 					Facebook
 				</a>
-			</div>			
+			</div>
+				
+			<div class="mdi-set">
+				<i class="mdi-star"></i>
+				<i class="mdi-star"></i>
+				<i class="mdi-star"></i>
+				<i class="mdi-star"></i>
+				<i class="mdi-star"></i>
+			</div>		
 			
 			<div class="mdl-grid">
 				<div class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">6 (8 tablet)</div>
